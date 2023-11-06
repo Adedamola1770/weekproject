@@ -1,0 +1,19 @@
+.desc{
+    height: 200px;
+    border-radius: 2px;
+}
+.task{
+    position: relative;
+}
+.btn-1{
+    background-color: #974FD0;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    /* margin-left: 50px; */
+    border: none;
+   
+}
+.link{
+    color:#974FD0;
+}

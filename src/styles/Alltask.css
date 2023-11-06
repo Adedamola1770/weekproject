@@ -1,0 +1,22 @@
+.section-div{
+    border-radius: 5px;
+}
+.Edit-btn{
+    background-color: #974FD0;
+    border: none;
+    color: white;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 5px;
+}
+
+.Delete-btn{
+    border: none;
+    color: #974FD0;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 5px;
+}
+.impo{
+    color: #73C3A6;
+}
